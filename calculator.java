@@ -1,5 +1,5 @@
+//it's a demo file for testing purpos
 import java.util.Scanner;
-
  public class calculator
   {
     public static void main(String args[])
